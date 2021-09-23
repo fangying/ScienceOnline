@@ -8,5 +8,6 @@ no safety guarantee is made by us.
 
 # Thanks
 
-DivineEngine: https://github.com/DivineEngine/Profiles
-LoonDIY: https://raw.githubusercontent.com/w37fhy/QuantumultX/master/loon_diy.conf
+DivineEngine: [https://github.com/DivineEngine/Profiles](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/loon_diy.conf)
+
+LoonDIY: [https://raw.githubusercontent.com/w37fhy/QuantumultX/master/loon_diy.conf](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/loon_diy.conf)
